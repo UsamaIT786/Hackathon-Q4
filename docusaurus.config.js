@@ -11,7 +11,7 @@ const config = {
   // ===============================
   // SITE CONFIG (VERCEL SAFE)
   // ===============================
-  url: 'https://your-project-name.vercel.app',
+  url: 'https://physical-ai-robotics-textbook.vercel.app',
   baseUrl: '/',
 
   onBrokenLinks: 'warn',
@@ -49,8 +49,6 @@ const config = {
   // THEME CONFIG
   // ===============================
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
-
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
