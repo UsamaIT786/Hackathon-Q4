@@ -4,15 +4,15 @@
   "description": "AI-Native Physical AI & Humanoid Robotics - Comprehensive Textbook",
   "private": true,
   "scripts": {
-    "docusaurus": "npx docusaurus",
-    "start": "npx docusaurus start",
-    "build": "npx docusaurus build",
-    "swizzle": "npx docusaurus swizzle",
-    "deploy": "npx docusaurus deploy",
-    "clear": "npx docusaurus clear",
-    "serve": "npx docusaurus serve",
-    "write-translations": "npx docusaurus write-translations",
-    "write-heading-ids": "npx docusaurus write-heading-ids"
+    "docusaurus": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs",
+    "start": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs start",
+    "build": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs build",
+    "swizzle": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs swizzle",
+    "deploy": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs deploy",
+    "clear": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs clear",
+    "serve": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs serve",
+    "write-translations": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs write-translations",
+    "write-heading-ids": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs write-heading-ids"
   },
   "dependencies": {
     "@docusaurus/core": "^3.0.1",
