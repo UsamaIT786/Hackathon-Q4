@@ -1,0 +1,17 @@
+{
+  "id": "index",
+  "title": "Physical AI & Humanoid Robotics",
+  "description": "From Digital Intelligence to Embodied Autonomous Systems",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Physical AI & Humanoid Robotics",
+    "description": "From Digital Intelligence to Embodied Autonomous Systems"
+  }
+}

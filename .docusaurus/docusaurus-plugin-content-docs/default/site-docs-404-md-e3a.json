@@ -1,0 +1,17 @@
+{
+  "id": "404",
+  "title": "Page Not Found",
+  "description": "The page you're looking for doesn't exist. Start from the beginning!",
+  "source": "@site/docs/404.md",
+  "sourceDirName": ".",
+  "slug": "/404",
+  "permalink": "/404",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist. Start from the beginning!"
+  }
+}

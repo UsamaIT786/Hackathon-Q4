@@ -1,0 +1,39 @@
+{
+  "id": "part-1/sim_to_reality",
+  "title": "Chapter 3 - From Simulation to Reality (Sim2Real)",
+  "description": "The digital twin concept, the reality gap problem, domain randomization, and practical techniques for transferring trained policies and models from simulation to physical robots. Covers economic and engineering trade-offs.",
+  "source": "@site/docs/part-1/03_sim_to_reality.md",
+  "sourceDirName": "part-1",
+  "slug": "/part-1/sim_to_reality",
+  "permalink": "/part-1/sim_to_reality",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Chapter 3 - From Simulation to Reality (Sim2Real)",
+    "description": "The digital twin concept, the reality gap problem, domain randomization, and practical techniques for transferring trained policies and models from simulation to physical robots. Covers economic and engineering trade-offs.",
+    "difficulty": "Intermediate to Advanced",
+    "category": "Part 1 - Foundations",
+    "keywords": [
+      "simulation",
+      "digital twin",
+      "sim-to-real transfer",
+      "reality gap",
+      "domain randomization",
+      "physics engine",
+      "Gazebo",
+      "training data generation"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Chapter 2: Robotics Systems & Embodied Intelligence",
+    "permalink": "/part-1/robotics_systems"
+  },
+  "next": {
+    "title": "Part 2 Overview",
+    "permalink": "/part-2/PART_2_overview"
+  }
+}

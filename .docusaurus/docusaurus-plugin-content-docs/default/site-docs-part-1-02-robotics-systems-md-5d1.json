@@ -1,0 +1,38 @@
+{
+  "id": "part-1/robotics_systems",
+  "title": "Chapter 2 - Robotics Systems & Embodied Intelligence",
+  "description": "Hardware fundamentals, system architecture, control loops, and the design principles underlying modern robotics systems. Covers sensors, actuators, kinematics, and integrated system design.",
+  "source": "@site/docs/part-1/02_robotics_systems.md",
+  "sourceDirName": "part-1",
+  "slug": "/part-1/robotics_systems",
+  "permalink": "/part-1/robotics_systems",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Chapter 2 - Robotics Systems & Embodied Intelligence",
+    "description": "Hardware fundamentals, system architecture, control loops, and the design principles underlying modern robotics systems. Covers sensors, actuators, kinematics, and integrated system design.",
+    "difficulty": "Intermediate",
+    "category": "Part 1 - Foundations",
+    "keywords": [
+      "robotics hardware",
+      "sensors",
+      "actuators",
+      "control loops",
+      "kinematics",
+      "system integration",
+      "embodied intelligence"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Chapter 1: Physical AI Fundamentals",
+    "permalink": "/part-1/physical_ai_fundamentals"
+  },
+  "next": {
+    "title": "Chapter 3: From Simulation to Reality (Sim2Real)",
+    "permalink": "/part-1/sim_to_reality"
+  }
+}

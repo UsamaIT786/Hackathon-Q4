@@ -1,0 +1,157 @@
+const sidebars = {
+  tutorialSidebar: [
+    {
+      type: 'doc',
+      id: 'introduction',
+      label: 'Book Introduction',
+    },
+    {
+      type: 'category',
+      label: 'PART 1: Foundations of Physical AI',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'part-1/PART_1_overview',
+          label: 'Part 1 Overview',
+        },
+        {
+          type: 'doc',
+          id: 'part-1/physical_ai_fundamentals',
+          label: 'Chapter 1: Physical AI Fundamentals',
+        },
+        {
+          type: 'doc',
+          id: 'part-1/robotics_systems',
+          label: 'Chapter 2: Robotics Systems & Embodied Intelligence',
+        },
+        {
+          type: 'doc',
+          id: 'part-1/sim_to_reality',
+          label: 'Chapter 3: From Simulation to Reality (Sim2Real)',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'PART 2: ROS 2 – The Robotic Nervous System',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'part-2/PART_2_overview',
+          label: 'Part 2 Overview',
+        },
+        {
+          type: 'doc',
+          id: 'part-2/ros2_architecture',
+          label: 'Chapter 4: ROS 2 Architecture & Middleware',
+        },
+        {
+          type: 'doc',
+          id: 'part-2/nodes_topics_services_actions',
+          label: 'Chapter 5: Nodes, Topics, Services, and Actions',
+        },
+        {
+          type: 'doc',
+          id: 'part-2/python_ros2_development',
+          label: 'Chapter 6: Python-Based ROS 2 Development with rclpy',
+        },
+        {
+          type: 'doc',
+          id: 'part-2/agent_ros_communication',
+          label: 'Chapter 7: Agent-to-ROS Communication Patterns',
+        },
+        {
+          type: 'doc',
+          id: 'part-2/urdf_robot_description',
+          label: 'Chapter 8: URDF and Robot Description for Humanoids',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'PART 3: Digital Twin & Simulation',
+      collapsed: true,
+      items: [
+        {
+          type: 'doc',
+          id: 'part-3/PART_3_overview',
+          label: 'Part 3 Overview (Coming Soon)',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'PART 4: NVIDIA Isaac – The AI Robot Brain',
+      collapsed: true,
+      items: [
+        {
+          type: 'doc',
+          id: 'part-4/PART_4_overview',
+          label: 'Part 4 Overview (Coming Soon)',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'PART 5: Vision-Language-Action (VLA)',
+      collapsed: true,
+      items: [
+        {
+          type: 'doc',
+          id: 'part-5/PART_5_overview',
+          label: 'Part 5 Overview (Coming Soon)',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'PART 6: Conversational Humanoid Robots',
+      collapsed: true,
+      items: [
+        {
+          type: 'doc',
+          id: 'part-6/PART_6_overview',
+          label: 'Part 6 Overview (Coming Soon)',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'PART 7: Capstone – Autonomous Humanoid System',
+      collapsed: true,
+      items: [
+        {
+          type: 'doc',
+          id: 'part-7/PART_7_overview',
+          label: 'Part 7 Overview (Coming Soon)',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Reference Materials',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'glossary',
+          label: 'Technical Glossary',
+        },
+        {
+          type: 'doc',
+          id: 'rag_index',
+          label: 'RAG Index & Semantic Map',
+        },
+        {
+          type: 'doc',
+          id: 'resources',
+          label: 'Additional Resources',
+        },
+      ],
+    },
+  ],
+};
+
+module.exports = sidebars;

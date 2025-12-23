@@ -1,0 +1,33 @@
+{
+  "id": "introduction",
+  "title": "Book Introduction",
+  "description": "Overview and positioning of the AI-Native Physical AI & Humanoid Robotics textbook",
+  "source": "@site/docs/00_introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Book Introduction",
+    "description": "Overview and positioning of the AI-Native Physical AI & Humanoid Robotics textbook",
+    "difficulty": "Beginner",
+    "category": "Introduction",
+    "keywords": [
+      "physical AI",
+      "robotics",
+      "humanoids",
+      "introduction",
+      "learning path",
+      "textbook"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "next": {
+    "title": "Part 1 Overview",
+    "permalink": "/part-1/PART_1_overview"
+  }
+}

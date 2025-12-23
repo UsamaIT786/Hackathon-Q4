@@ -1,0 +1,22 @@
+{
+  "id": "resources",
+  "title": "Additional Resources",
+  "description": "Recommended reading, tools, communities, and external resources for Physical AI and robotics",
+  "source": "@site/docs/resources.md",
+  "sourceDirName": ".",
+  "slug": "/resources",
+  "permalink": "/resources",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Additional Resources",
+    "description": "Recommended reading, tools, communities, and external resources for Physical AI and robotics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "RAG Index & Semantic Map",
+    "permalink": "/rag_index"
+  }
+}

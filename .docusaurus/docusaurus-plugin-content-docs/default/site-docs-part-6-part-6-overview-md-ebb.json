@@ -1,0 +1,26 @@
+{
+  "id": "part-6/PART_6_overview",
+  "title": "PART 6 Overview",
+  "description": "Conversational Humanoid Robots - Coming Soon",
+  "source": "@site/docs/part-6/PART_6_overview.md",
+  "sourceDirName": "part-6",
+  "slug": "/part-6/PART_6_overview",
+  "permalink": "/part-6/PART_6_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PART 6 Overview",
+    "description": "Conversational Humanoid Robots - Coming Soon"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Part 5 Overview",
+    "permalink": "/part-5/PART_5_overview"
+  },
+  "next": {
+    "title": "Part 7 Overview",
+    "permalink": "/part-7/PART_7_overview"
+  }
+}

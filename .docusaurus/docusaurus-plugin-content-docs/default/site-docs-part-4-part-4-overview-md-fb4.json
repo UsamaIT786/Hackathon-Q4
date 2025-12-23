@@ -1,0 +1,26 @@
+{
+  "id": "part-4/PART_4_overview",
+  "title": "PART 4 Overview",
+  "description": "NVIDIA Isaac - The AI Robot Brain - Coming Soon",
+  "source": "@site/docs/part-4/PART_4_overview.md",
+  "sourceDirName": "part-4",
+  "slug": "/part-4/PART_4_overview",
+  "permalink": "/part-4/PART_4_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PART 4 Overview",
+    "description": "NVIDIA Isaac - The AI Robot Brain - Coming Soon"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Part 3 Overview",
+    "permalink": "/part-3/PART_3_overview"
+  },
+  "next": {
+    "title": "Part 5 Overview",
+    "permalink": "/part-5/PART_5_overview"
+  }
+}

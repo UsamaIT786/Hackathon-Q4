@@ -1,0 +1,23 @@
+{
+  "id": "glossary",
+  "title": "Technical Glossary",
+  "description": "AI-Native Physical AI & Humanoid Robotics Textbook",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/glossary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Part 7 Overview",
+    "permalink": "/part-7/PART_7_overview"
+  },
+  "next": {
+    "title": "RAG Index & Semantic Map",
+    "permalink": "/rag_index"
+  }
+}

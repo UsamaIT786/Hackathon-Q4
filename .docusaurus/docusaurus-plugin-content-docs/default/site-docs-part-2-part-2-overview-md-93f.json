@@ -1,0 +1,40 @@
+{
+  "id": "part-2/PART_2_overview",
+  "title": "PART 2 - ROS 2 - The Robotic Nervous System",
+  "description": "Overview of Part 2, covering ROS 2 architecture, node communication patterns, Python development, agent integration, and robot description languages.",
+  "source": "@site/docs/part-2/PART_2_overview.md",
+  "sourceDirName": "part-2",
+  "slug": "/part-2/PART_2_overview",
+  "permalink": "/part-2/PART_2_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PART 2 - ROS 2 - The Robotic Nervous System",
+    "description": "Overview of Part 2, covering ROS 2 architecture, node communication patterns, Python development, agent integration, and robot description languages.",
+    "difficulty": "Intermediate to Advanced",
+    "category": "Part 2 - ROS 2",
+    "keywords": [
+      "ROS 2",
+      "middleware",
+      "nodes",
+      "topics",
+      "services",
+      "actions",
+      "Python",
+      "URDF",
+      "humanoid",
+      "communication"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Chapter 3: From Simulation to Reality (Sim2Real)",
+    "permalink": "/part-1/sim_to_reality"
+  },
+  "next": {
+    "title": "Chapter 4: ROS 2 Architecture & Middleware",
+    "permalink": "/part-2/ros2_architecture"
+  }
+}

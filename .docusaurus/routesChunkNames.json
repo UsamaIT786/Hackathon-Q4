@@ -1,0 +1,146 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-03c": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-46e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-388": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/404-adb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---404-e-3-a-7b8"
+  },
+  "/glossary-27d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---glossarye-74-e21"
+  },
+  "/introduction-77b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---introduction-672-ee0"
+  },
+  "/part-1/PART_1_overview-0b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-1-part-1-overview-5-bf-1ac"
+  },
+  "/part-1/physical_ai_fundamentals-6b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-1-physical-ai-fundamentals-2-b-8-1a4"
+  },
+  "/part-1/robotics_systems-07c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-1-robotics-systems-5-d-1-962"
+  },
+  "/part-1/sim_to_reality-bfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-1-sim-to-realitycc-2-bdc"
+  },
+  "/part-2/agent_ros_communication-9d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-2-agent-ros-communicationa-63-f1b"
+  },
+  "/part-2/nodes_topics_services_actions-cdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-2-nodes-topics-services-actions-0-c-4-c95"
+  },
+  "/part-2/PART_2_overview-187": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-2-part-2-overview-93-f-e59"
+  },
+  "/part-2/python_ros2_development-9f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-2-python-ros-2-development-095-5e7"
+  },
+  "/part-2/ros2_architecture-060": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-2-ros-2-architecture-040-ed6"
+  },
+  "/part-2/urdf_robot_description-1c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-2-urdf-robot-description-258-6e7"
+  },
+  "/part-3/PART_3_overview-525": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-3-part-3-overview-1-fb-bbd"
+  },
+  "/part-4/PART_4_overview-636": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-4-part-4-overviewfb-4-95a"
+  },
+  "/part-5/PART_5_overview-f2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-5-part-5-overviewc-49-640"
+  },
+  "/part-6/PART_6_overview-bf4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-6-part-6-overviewebb-6e6"
+  },
+  "/part-7/PART_7_overview-7b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---part-7-part-7-overviewd-81-e4f"
+  },
+  "/rag_index-9c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---rag-index-7-fa-f4a"
+  },
+  "/resources-8c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resourcesd-92-d89"
+  },
+  "/UI_COMPONENTS_SHOWCASE-f66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ui-components-showcas-edcc-157"
+  },
+  "/-c48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
+  }
+}

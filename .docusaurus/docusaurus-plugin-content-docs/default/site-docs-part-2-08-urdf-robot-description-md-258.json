@@ -1,0 +1,39 @@
+{
+  "id": "part-2/urdf_robot_description",
+  "title": "Chapter 8 - URDF and Robot Description for Humanoids",
+  "description": "Complete guide to describing robot kinematics, dynamics, and geometry using URDF, with focus on humanoid robots and ROS 2 integration.",
+  "source": "@site/docs/part-2/08_urdf_robot_description.md",
+  "sourceDirName": "part-2",
+  "slug": "/part-2/urdf_robot_description",
+  "permalink": "/part-2/urdf_robot_description",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Chapter 8 - URDF and Robot Description for Humanoids",
+    "description": "Complete guide to describing robot kinematics, dynamics, and geometry using URDF, with focus on humanoid robots and ROS 2 integration.",
+    "difficulty": "Intermediate",
+    "category": "Part 2 - ROS 2",
+    "keywords": [
+      "URDF",
+      "robot description",
+      "kinematics",
+      "collision geometry",
+      "humanoid",
+      "TF",
+      "visualization",
+      "rviz2"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Chapter 7: Agent-to-ROS Communication Patterns",
+    "permalink": "/part-2/agent_ros_communication"
+  },
+  "next": {
+    "title": "Part 3 Overview",
+    "permalink": "/part-3/PART_3_overview"
+  }
+}

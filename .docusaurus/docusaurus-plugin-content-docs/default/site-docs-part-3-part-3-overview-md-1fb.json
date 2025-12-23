@@ -1,0 +1,26 @@
+{
+  "id": "part-3/PART_3_overview",
+  "title": "PART 3 Overview",
+  "description": "Digital Twin & Simulation - Coming Soon",
+  "source": "@site/docs/part-3/PART_3_overview.md",
+  "sourceDirName": "part-3",
+  "slug": "/part-3/PART_3_overview",
+  "permalink": "/part-3/PART_3_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PART 3 Overview",
+    "description": "Digital Twin & Simulation - Coming Soon"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Chapter 8: URDF and Robot Description for Humanoids",
+    "permalink": "/part-2/urdf_robot_description"
+  },
+  "next": {
+    "title": "Part 4 Overview",
+    "permalink": "/part-4/PART_4_overview"
+  }
+}

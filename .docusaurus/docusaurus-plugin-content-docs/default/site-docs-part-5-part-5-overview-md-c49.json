@@ -1,0 +1,26 @@
+{
+  "id": "part-5/PART_5_overview",
+  "title": "PART 5 Overview",
+  "description": "Vision-Language-Action (VLA) - Coming Soon",
+  "source": "@site/docs/part-5/PART_5_overview.md",
+  "sourceDirName": "part-5",
+  "slug": "/part-5/PART_5_overview",
+  "permalink": "/part-5/PART_5_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PART 5 Overview",
+    "description": "Vision-Language-Action (VLA) - Coming Soon"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Part 4 Overview",
+    "permalink": "/part-4/PART_4_overview"
+  },
+  "next": {
+    "title": "Part 6 Overview",
+    "permalink": "/part-6/PART_6_overview"
+  }
+}

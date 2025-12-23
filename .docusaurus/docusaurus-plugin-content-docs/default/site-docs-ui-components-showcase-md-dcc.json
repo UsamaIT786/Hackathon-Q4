@@ -1,0 +1,17 @@
+{
+  "id": "UI_COMPONENTS_SHOWCASE",
+  "title": "Professional UI Components Showcase",
+  "description": "Examples of all professional UI components and hover effects",
+  "source": "@site/docs/UI_COMPONENTS_SHOWCASE.md",
+  "sourceDirName": ".",
+  "slug": "/UI_COMPONENTS_SHOWCASE",
+  "permalink": "/UI_COMPONENTS_SHOWCASE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Professional UI Components Showcase",
+    "description": "Examples of all professional UI components and hover effects"
+  }
+}

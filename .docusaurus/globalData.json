@@ -1,0 +1,135 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "404",
+              "path": "/404"
+            },
+            {
+              "id": "glossary",
+              "path": "/glossary",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/"
+            },
+            {
+              "id": "introduction",
+              "path": "/introduction",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-1/PART_1_overview",
+              "path": "/part-1/PART_1_overview",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-1/physical_ai_fundamentals",
+              "path": "/part-1/physical_ai_fundamentals",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-1/robotics_systems",
+              "path": "/part-1/robotics_systems",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-1/sim_to_reality",
+              "path": "/part-1/sim_to_reality",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-2/agent_ros_communication",
+              "path": "/part-2/agent_ros_communication",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-2/nodes_topics_services_actions",
+              "path": "/part-2/nodes_topics_services_actions",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-2/PART_2_overview",
+              "path": "/part-2/PART_2_overview",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-2/python_ros2_development",
+              "path": "/part-2/python_ros2_development",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-2/ros2_architecture",
+              "path": "/part-2/ros2_architecture",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-2/urdf_robot_description",
+              "path": "/part-2/urdf_robot_description",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-3/PART_3_overview",
+              "path": "/part-3/PART_3_overview",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-4/PART_4_overview",
+              "path": "/part-4/PART_4_overview",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-5/PART_5_overview",
+              "path": "/part-5/PART_5_overview",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-6/PART_6_overview",
+              "path": "/part-6/PART_6_overview",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "part-7/PART_7_overview",
+              "path": "/part-7/PART_7_overview",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "rag_index",
+              "path": "/rag_index",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "resources",
+              "path": "/resources",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "UI_COMPONENTS_SHOWCASE",
+              "path": "/UI_COMPONENTS_SHOWCASE"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "textbookSidebar": {
+              "link": {
+                "path": "/introduction",
+                "label": "Book Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

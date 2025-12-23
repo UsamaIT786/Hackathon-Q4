@@ -1,0 +1,26 @@
+{
+  "id": "part-7/PART_7_overview",
+  "title": "PART 7 Overview",
+  "description": "Capstone - Autonomous Humanoid System - Coming Soon",
+  "source": "@site/docs/part-7/PART_7_overview.md",
+  "sourceDirName": "part-7",
+  "slug": "/part-7/PART_7_overview",
+  "permalink": "/part-7/PART_7_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PART 7 Overview",
+    "description": "Capstone - Autonomous Humanoid System - Coming Soon"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Part 6 Overview",
+    "permalink": "/part-6/PART_6_overview"
+  },
+  "next": {
+    "title": "Technical Glossary",
+    "permalink": "/glossary"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "part-1/physical_ai_fundamentals",
+  "title": "Chapter 1 - Physical AI Fundamentals",
+  "description": "Definition, scope, and positioning of Physical AI within the broader AI and robotics landscape. Explores embodied cognition and the fundamental differences from traditional software AI.",
+  "source": "@site/docs/part-1/01_physical_ai_fundamentals.md",
+  "sourceDirName": "part-1",
+  "slug": "/part-1/physical_ai_fundamentals",
+  "permalink": "/part-1/physical_ai_fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Chapter 1 - Physical AI Fundamentals",
+    "description": "Definition, scope, and positioning of Physical AI within the broader AI and robotics landscape. Explores embodied cognition and the fundamental differences from traditional software AI.",
+    "difficulty": "Intermediate",
+    "category": "Part 1 - Foundations",
+    "keywords": [
+      "physical AI",
+      "embodied intelligence",
+      "artificial intelligence",
+      "robotics",
+      "hardware-software integration"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Part 1 Overview",
+    "permalink": "/part-1/PART_1_overview"
+  },
+  "next": {
+    "title": "Chapter 2: Robotics Systems & Embodied Intelligence",
+    "permalink": "/part-1/robotics_systems"
+  }
+}
