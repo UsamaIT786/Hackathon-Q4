@@ -9,21 +9,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // ===============================
-  // REQUIRED SITE CONFIG (FIXED)
+  // SITE CONFIG (VERCEL SAFE)
   // ===============================
-  url: 'http://localhost:3000',
+  url: 'https://your-project-name.vercel.app',
   baseUrl: '/',
 
   onBrokenLinks: 'warn',
-
-  // ===============================
-  // MARKDOWN CONFIG
-  // ===============================
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: 'warn',
-    },
-  },
+  onBrokenMarkdownLinks: 'warn',
 
   // ===============================
   // INTERNATIONALIZATION
@@ -34,20 +26,16 @@ const config = {
   },
 
   // ===============================
-  // PRESETS
+  // PRESETS (FIXED – NO EMPTY PRESET)
   // ===============================
   presets: [
     [
       'classic',
       {
         docs: {
-          routeBasePath: '/', // ⭐ IMPORTANT: docs served at root
+          routeBasePath: '/', // docs at root
           sidebarPath: require.resolve('./docusaurus_sidebar.js'),
           editUrl: undefined,
-
-          // ⭐ MDX SAFE MODE (IMPORTANT FOR YOUR ERRORS)
-          remarkPlugins: [require('remark-gfm')],
-          rehypePlugins: [],
         },
         blog: false,
         theme: {
@@ -62,6 +50,7 @@ const config = {
   // ===============================
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
+
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
@@ -74,12 +63,10 @@ const config = {
         alt: 'Physical AI Logo',
         src: 'img/logo.svg',
       },
-      hideOnScroll: false,
-      style: 'primary',
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'textbookSidebar', // ⭐ MUST MATCH sidebars.js
+          sidebarId: 'textbookSidebar', // MUST match sidebar file
           position: 'left',
           label: '📚 Chapters',
         },
@@ -101,52 +88,36 @@ const config = {
         {
           title: 'Content',
           items: [
-            {
-              label: 'Introduction',
-              to: '/',
-            },
-            {
-              label: 'Part 1: Foundations',
-              to: '/part-1/PART_1_overview',
-            },
-            {
-              label: 'Part 2: ROS 2',
-              to: '/part-2/PART_2_overview',
-            },
+            { label: 'Introduction', to: '/' },
+            { label: 'Part 1: Foundations', to: '/part-1/PART_1_overview' },
+            { label: 'Part 2: ROS 2', to: '/part-2/PART_2_overview' },
           ],
         },
         {
           title: 'References',
           items: [
-            {
-              label: 'Glossary',
-              to: '/glossary',
-            },
-            {
-              label: 'RAG Index',
-              to: '/rag_index',
-            },
-            {
-              label: 'Resources',
-              to: '/resources',
-            },
+            { label: 'Glossary', to: '/glossary' },
+            { label: 'RAG Index', to: '/rag_index' },
+            { label: 'Resources', to: '/resources' },
           ],
         },
       ],
       copyright:
-        `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics. All rights reserved.`,
+        `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics.`,
     },
 
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
-      additionalLanguages: ['bash', 'diff', 'json', 'python', 'cpp', 'yaml', 'latex', 'markup'],
-      magicComments: [
-        {
-          className: 'theme-code-block-highlighted-line',
-          line: 'highlight-next-line',
-          block: { start: 'highlight-start', end: 'highlight-end' },
-        },
+      additionalLanguages: [
+        'bash',
+        'diff',
+        'json',
+        'python',
+        'cpp',
+        'yaml',
+        'latex',
+        'markup',
       ],
     },
   },
