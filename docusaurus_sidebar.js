@@ -13,7 +13,7 @@ module.exports = {
   textbookSidebar: [
     {
       type: 'doc',
-      id: '00_introduction',
+      id: 'introduction',
       label: 'Book Introduction',
     },
     {
@@ -28,17 +28,17 @@ module.exports = {
         },
         {
           type: 'doc',
-          id: 'part-1/01_physical_ai_fundamentals',
+          id: 'part-1/physical_ai_fundamentals',
           label: 'Chapter 1: Physical AI Fundamentals',
         },
         {
           type: 'doc',
-          id: 'part-1/02_robotics_systems',
+          id: 'part-1/robotics_systems',
           label: 'Chapter 2: Robotics Systems & Embodied Intelligence',
         },
         {
           type: 'doc',
-          id: 'part-1/03_sim_to_reality',
+          id: 'part-1/sim_to_reality',
           label: 'Chapter 3: From Simulation to Reality (Sim2Real)',
         },
       ],
@@ -55,27 +55,27 @@ module.exports = {
         },
         {
           type: 'doc',
-          id: 'part-2/04_ros2_architecture',
+          id: 'part-2/ros2_architecture',
           label: 'Chapter 4: ROS 2 Architecture & Middleware',
         },
         {
           type: 'doc',
-          id: 'part-2/05_nodes_topics_services_actions',
+          id: 'part-2/nodes_topics_services_actions',
           label: 'Chapter 5: Nodes, Topics, Services, and Actions',
         },
         {
           type: 'doc',
-          id: 'part-2/06_python_ros2_development',
+          id: 'part-2/python_ros2_development',
           label: 'Chapter 6: Python-Based ROS 2 Development with rclpy',
         },
         {
           type: 'doc',
-          id: 'part-2/07_agent_ros_communication',
+          id: 'part-2/agent_ros_communication',
           label: 'Chapter 7: Agent-to-ROS Communication Patterns',
         },
         {
           type: 'doc',
-          id: 'part-2/08_urdf_robot_description',
+          id: 'part-2/urdf_robot_description',
           label: 'Chapter 8: URDF and Robot Description for Humanoids',
         },
       ],
